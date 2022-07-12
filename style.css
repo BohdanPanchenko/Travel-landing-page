@@ -745,7 +745,7 @@ body {
 
 @media(max-width:1270px) {
     .subcribe__container {
-        justify-content: end;
+        justify-content: flex-end;
     }
     .subcribe__info {
         flex-grow: 1;
